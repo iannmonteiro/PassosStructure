@@ -59,7 +59,7 @@ ___________________________________________________________
 
 2) Copiar pasta para pasta do "structureHarvester-master" (Download aqui: https://github.com/dentearl/structureHarvester/blob/master/README.md)
 
-3) Abrir prompt e usar "structureHarvester.py --dir=Nomedoarquivo.rar --out=escolhernomedapastaout"
+3) Abrir prompt e usar "structureHarvester.py --dir=Clicar_e_arrastar_a_pasta_pra_ca --out=escolhernomedapastaout"
     Irá gerar um summary com as corridas
 
 4)"structureHarvester.py --dir=Nomedoarquivo.rar --out=escolhernomedapastaout --clumpp"
